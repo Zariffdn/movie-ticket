@@ -33,7 +33,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`id`, `name`, `email`, `password`) VALUES
-(1, 'Admin', 'admin@gmail.com', 'admin@123');
+(1, 'Admin', 'user1@example.com', 'admin@123');
 
 -- --------------------------------------------------------
 
@@ -137,10 +137,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `mobile`) VALUES
-(2, 'Hilmieee', 'hilmie@gmail.com', 'mieee123', 8888888889),
-(4, 'Sara', 'sara@gmail.com', 'sara123', 48787878787),
-(6, 'Danny', 'danny@gmail.com', 'danny123', 112233),
-(7, 'Rep', 'Rep@gmail.com', 'rep123', 12112233);
+(2, 'Hilmieee', 'user2@example.com', 'mieee123', 8888888889),
+(4, 'Sara', 'user3@example.com', 'sara123', 48787878787),
+(6, 'Danny', 'user4@example.com', 'danny123', 112233),
+(7, 'Rep', 'user5@example.com', 'rep123', 12112233);
 
 --
 -- Indexes for dumped tables

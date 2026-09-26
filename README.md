@@ -31,12 +31,4 @@ This repository contains a PHP-based Movie Ticket Booking System designed for us
 - **Show Management:** Handle showtimes effectively.
 - **User Viewing:** Monitor registered users.
 
-## Contributing
-
-Contributions are welcome via pull requests. For major changes, please open an issue first to discuss the changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
+The seed rows in the database file are sample data.
